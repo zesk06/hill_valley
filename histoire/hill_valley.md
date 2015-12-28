@@ -22,3 +22,16 @@
     - Marty est renversé par la voiture après avoir sauvé George
     - Marty invente le skateboard
     - Marty invente le rock and roll
+- 1956: 
+    - Le quartier de Lion Estate est terminé
+- 1958: 
+    - Sortie de "Johnny B. Goode"
+- 1962: 
+    - La maison de Doc brûle, Doc vend le reste du terrain.
+- 1968: 
+    - Naissance de Marty McFly
+    - Naissance de Jennifer Parker
+- 1973: 
+    - George gagne un prix litteraire
+- 1976: 
+    - Marty met accidentellement le feu au tapis du salon
