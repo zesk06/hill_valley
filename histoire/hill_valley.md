@@ -22,3 +22,5 @@
     - Marty est renversé par la voiture après avoir sauvé George
     - Marty invente le skateboard
     - Marty invente le rock and roll
+    - Vieux Biff arrive de 2015
+    - Vieux Biff donne l'almanach des sports à jeune Biff
