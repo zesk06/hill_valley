@@ -40,3 +40,9 @@
     - Le chien de Doc devient le premier voyageur du temps
     - Doc survit à l'attaque des libanais car il porte une veste
     - Doc repart vers le futur
+- 1994: 
+    - Marty et Jennifer se marient
+- 1996: 
+    - Naissance de Griff Tannen
+- 1998: 
+    - Naissance de Marty McFly Junior
