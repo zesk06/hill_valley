@@ -9,3 +9,10 @@
 - 1885: 
     - Pour les célébrations de la naissance de la ville, 
       l'horloge de l'hôtel de ville est démarrée à 8:00 pile
+- 1920: 
+    - Naissance de Emmet Brown
+- 1937: 
+    - Naissance de Biff Tannen
+- 1938: 
+    - Naissance de George McFly
+    - Naissance de Lorraine Baines
