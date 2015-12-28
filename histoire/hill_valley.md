@@ -18,3 +18,7 @@
     - Naissance de Lorraine Baines
 - 1955: 
     - Doc glisse sur ses toilettes et à la vision de la machine à voyager dans le temps.
+    - Marty écrase un des pins de Peabody
+    - Marty est renversé par la voiture après avoir sauvé George
+    - Marty invente le skateboard
+    - Marty invente le rock and roll
