@@ -29,3 +29,7 @@
     - Naissance de Jennifer Parker
 - 1976: 
     - Marty met accidentellement le feu au tapis du salon
+- 1985: 
+    - Des terroristes libanais volent du plutonium
+    - Le chien de Doc devient le premier voyageur du temps
+    - Doc est tué par les libanais et Marty fuit dans le passé 
