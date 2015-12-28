@@ -35,3 +35,8 @@
     - George gagne un prix litteraire
 - 1976: 
     - Marty met accidentellement le feu au tapis du salon
+- 1985: 
+    - Des terroristes libanais volent du plutonium
+    - Le chien de Doc devient le premier voyageur du temps
+    - Doc survit à l'attaque des libanais car il porte une veste
+    - Doc repart vers le futur
