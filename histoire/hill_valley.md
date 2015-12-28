@@ -40,3 +40,5 @@
     - Le chien de Doc devient le premier voyageur du temps
     - Doc survit à l'attaque des libanais car il porte une veste
     - Doc repart vers le futur
+    - Doc revient du futur et repart avec Marty et Lorraine
+    - Biff Tannen voit décoller la delorean
