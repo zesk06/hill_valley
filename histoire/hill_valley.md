@@ -42,3 +42,9 @@
     - Doc repart vers le futur
     - Doc revient du futur et repart avec Marty et Lorraine
     - Biff Tannen voit décoller la delorean
+- 1994: 
+    - Marty et Jennifer se marient
+- 1996: 
+    - Naissance de Griff Tannen
+- 1998: 
+    - Naissance de Marty McFly Junior
