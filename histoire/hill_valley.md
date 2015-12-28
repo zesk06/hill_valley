@@ -48,3 +48,10 @@
     - Naissance de Griff Tannen
 - 1998: 
     - Naissance de Marty McFly Junior
+- 2015: 
+    - Les dents de la mer 19 sort au cinéma
+    - Marty senior est viré par Ito Fujitsu
+    - Marty intervient et fait enfermer le gang de Griff Tannen
+    - Marty achète l'almanach des sports
+    - Biff vole l'almanach, prend la delorean et retourne en 1955
+
