@@ -24,3 +24,18 @@
     - Marty invente le rock and roll
     - Vieux Biff arrive de 2015
     - Vieux Biff donne l'almanach des sports à jeune Biff
+- 1958:
+    - Biff gagne son premier million aux courses grâce à l'almanach
+- 1959:
+    - Biff gagne de multiples fois et devient l'homme le plus chanceux du monde
+- 1968: 
+    - Naissance de Marty McFly
+    - Naissance de Jennifer Parker
+- 1973:
+    - George est tué, Lorraine se marie avec Biff
+- 1979:
+    - Le jeu devient légal en Californie
+    - L'école de Hill Valley est brûlée
+- 1983:
+    - Doc est enfermé dans un hôpital psychiatrique
+    
