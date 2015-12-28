@@ -18,3 +18,14 @@
     - Naissance de Lorraine Baines
 - 1955: 
     - Doc glisse sur ses toilettes et à la vision de la machine à voyager dans le temps.
+- 1956: 
+    - Le quartier de Lion Estate est terminé
+- 1958: 
+    - Sortie de "Johnny B. Goode"
+- 1962: 
+    - La maison de Doc brûle, Doc vend le reste du terrain.
+- 1968: 
+    - Naissance de Marty McFly
+    - Naissance de Jennifer Parker
+- 1976: 
+    - Marty met accidentellement le feu au tapis du salon
