@@ -24,3 +24,6 @@
     - Marty invente le rock and roll
     - Vieux Biff arrive de 2015
     - Vieux Biff donne l'almanach des sports à jeune Biff
+    - Marty récupère l'almanach des sports et le brûle
+    - Doc est renvoyé par accident en 1885
+    - Mary reçoit une lettre de Doc datant du 19ème siècle
